@@ -1,4 +1,4 @@
-# Overview
+# 🤖Overview
 
 Champie is a discord bot I'm making for a personal server that utilizes data from Riot Games Data Dragon. Champie is currently a work in progress, but I'm having loads of fun developing them.
 
@@ -6,7 +6,7 @@ Champie, as well as the code for Champie, is currently not avaliable for public 
 
 Discord allows bots to send custom emojis from any server the bot is in, similar to nitro users, so I made multiple servers with custom emojis for all 168(?) champs and other icons such as roles and ability buttons for aesthetic displays from Champie.
 
-# Commands
+# ❔Commands
 ### help
 Help returns a list of Champie's commands, and a short description
 
