@@ -1,3 +1,5 @@
+<a name='readme-top'></a>
+
 # 🤖Overview
 
 Champie is a discord bot I'm making for a personal server that utilizes data from Riot Games Data Dragon. Champie is currently a work in progress, but I'm having loads of fun developing them.
@@ -42,3 +44,4 @@ Someday, I'd like to:
 - _Maybe_ an economy/level system for users?
 - Host Champie on a rpi for constant activity
 
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
