@@ -10,31 +10,27 @@ Discord allows bots to send custom emojis from any server the bot is in, similar
 
 # ❔Commands
 ### help
-Help returns a list of Champie's commands, and a short description
+Help returns a list of Champie's commands along with a short description.
 
-https://github.com/TritCoded/my-discord-bot/assets/162391277/c2c12af1-2a90-4029-b812-54743abf856b
-
-### randomchamp
-Randomchamp displays information about a random League of Legends champion, including their name, title, roles, resource, and abilities. The idea behind this was to get a random champion to play when you're about to pick and don't know who to play.
-
-https://github.com/TritCoded/my-discord-bot/assets/162391277/9d314807-d46b-402b-a2b8-b4b727c6a77c
+https://github.com/TritCoded/Champie/assets/162391277/c58f8c34-c027-4260-9504-bd66bab26008
 
 ### champ
-Champ is similar to randomchamp, except you can specify a champion to see the same information. I pick Aphelios here because he's cool.
+champ returns information about a specified champion, including roles, resource, and spells. When left blank, or random is used as an input, it returns information about a random champion.
 
-https://github.com/TritCoded/my-discord-bot/assets/162391277/b6c61802-63a8-4757-9b8e-26720be04273
+https://github.com/TritCoded/Champie/assets/162391277/ac8d47b7-fb65-434e-bac6-60247a0174aa
 
 ### lore
-Lore displays a champions lore, if you type ?lore random, it will return the lore of a random champion.
+Lore displays a champions lore, if you type ?lore random or just ?lore, it will return the lore of a random champion.
 
-https://github.com/TritCoded/my-discord-bot/assets/162391277/6d70eeeb-2268-4351-8311-3af7a81f307b
+https://github.com/TritCoded/Champie/assets/162391277/a9cfaa33-5bb2-458c-8897-493639c7a332
 
 ### clash
 Clash is useful for creating clash teams. It notifies people that a user is looking for members and allows them to react with a role to show they are interested. It currently pings everyone but eventually I will make a custom clash role so it doesn't bother everyone. 
 
-https://github.com/TritCoded/my-discord-bot/assets/162391277/c74e228d-5009-485d-b5a3-e8f95a7a3c27
+https://github.com/TritCoded/Champie/assets/162391277/354012ce-533d-4272-8423-23db83d7ff43
 
 Since I don't have full access to Riots API, this command has to be done manually. My hope is one day I can automate this command once the bot is more developed. 
+
 
 # Plans for the future
 Someday, I'd like to:
